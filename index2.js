@@ -1,2 +1,2 @@
 sum = a + b;
-alert(sum)
+console.log(sum)
